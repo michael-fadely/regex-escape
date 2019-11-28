@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/regex-escape
+regex-escape.so
+regex-escape.dylib
+regex-escape.dll
+regex-escape.a
+regex-escape.lib
+regex-escape-test-*
+*.exe
+*.o
+*.obj
+*.lst

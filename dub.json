@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Michael Fadely"
+	],
+	"copyright": "Copyright © 2019, Michael Fadely",
+	"description": "I just really wanted to escape text from command-line on Windows",
+	"license": "MIT",
+	"name": "regex-escape"
+}
